@@ -1,4 +1,7 @@
 ### 2026-02-17
+Went back and started working on issues that were reported to us concerning our scheduler project
+
+### 2026-02-17
 Started planning out the logistics of what my sections of code entail
 
 ### 2026-02-17
