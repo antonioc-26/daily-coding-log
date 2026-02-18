@@ -1,4 +1,7 @@
 ### 2026-02-17
+Started planning out the logistics of what my sections of code entail
+
+### 2026-02-17
 Also split up initial sections of requirements among the team.
 
 ### 2026-02-17
