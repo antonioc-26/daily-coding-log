@@ -1,3 +1,6 @@
+### 2026-02-17
+Read up on all the requirement for the next section of my Scheduler Project
+
 ### 2026-02-03
 Test to see if this commit get documented
 
