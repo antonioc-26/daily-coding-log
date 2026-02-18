@@ -1,4 +1,7 @@
 ### 2026-02-17
+Also split up initial sections of requirements among the team.
+
+### 2026-02-17
 Read up on all the requirement for the next section of my Scheduler Project
 
 ### 2026-02-03
