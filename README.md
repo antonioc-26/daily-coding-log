@@ -1,3 +1,6 @@
+### 2026-02-26
+Today I peer coded with one of my teamates to help standarize what we wanted from the newest feature being implemented into our scheduler project. Afterwards, i reviewed the code and gave feedback so that we could get the corrections in and submitted to move onto the next step. 
+
 ### 2026-02-17
 Went back and started working on issues that were reported to us concerning our scheduler project
 
